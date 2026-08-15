@@ -1,11 +1,11 @@
 {
   "dependencies": {
     "com.factorygames.core": {
-      "version": "https://github.com/serkankaval52-collab/factory.core.git#v0.1.5",
+      "version": "https://github.com/serkankaval52-collab/factory.core.git#v0.1.7",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "8444fb8ef925075a07b2201a1549afad07af9d86"
+      "hash": "005314244d07ccf643252588d3519abf6a96f886"
     },
     "com.unity.2d.animation": {
       "version": "10.1.4",
