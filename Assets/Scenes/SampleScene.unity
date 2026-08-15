@@ -350,3 +350,194 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1000001
+GameObject:
+  m_ObjectHideFlags: 0
+  m_Name: Fazlalik1
+  m_IsActive: 1
+--- !u!1 &1000002
+GameObject:
+  m_ObjectHideFlags: 0
+  m_Name: Fazlalik2
+  m_IsActive: 1
+--- !u!1 &1000003
+GameObject:
+  m_ObjectHideFlags: 0
+  m_Name: Fazlalik3
+  m_IsActive: 1
+--- !u!1 &1000004
+GameObject:
+  m_ObjectHideFlags: 0
+  m_Name: Fazlalik4
+  m_IsActive: 1
+--- !u!1 &1000005
+GameObject:
+  m_ObjectHideFlags: 0
+  m_Name: Fazlalik5
+  m_IsActive: 1
+--- !u!1 &1000006
+GameObject:
+  m_ObjectHideFlags: 0
+  m_Name: Fazlalik6
+  m_IsActive: 1
+--- !u!1 &1000007
+GameObject:
+  m_ObjectHideFlags: 0
+  m_Name: Fazlalik7
+  m_IsActive: 1
+--- !u!1 &1000008
+GameObject:
+  m_ObjectHideFlags: 0
+  m_Name: Fazlalik8
+  m_IsActive: 1
+--- !u!1 &1000009
+GameObject:
+  m_ObjectHideFlags: 0
+  m_Name: Fazlalik9
+  m_IsActive: 1
+--- !u!1 &1000010
+GameObject:
+  m_ObjectHideFlags: 0
+  m_Name: Fazlalik10
+  m_IsActive: 1
+--- !u!1 &1000011
+GameObject:
+  m_ObjectHideFlags: 0
+  m_Name: Fazlalik11
+  m_IsActive: 1
+--- !u!1 &1000012
+GameObject:
+  m_ObjectHideFlags: 0
+  m_Name: Fazlalik12
+  m_IsActive: 1
+--- !u!1 &1000013
+GameObject:
+  m_ObjectHideFlags: 0
+  m_Name: Fazlalik13
+  m_IsActive: 1
+--- !u!1 &1000014
+GameObject:
+  m_ObjectHideFlags: 0
+  m_Name: Fazlalik14
+  m_IsActive: 1
+--- !u!1 &1000015
+GameObject:
+  m_ObjectHideFlags: 0
+  m_Name: Fazlalik15
+  m_IsActive: 1
+--- !u!1 &1000016
+GameObject:
+  m_ObjectHideFlags: 0
+  m_Name: Fazlalik16
+  m_IsActive: 1
+--- !u!1 &1000017
+GameObject:
+  m_ObjectHideFlags: 0
+  m_Name: Fazlalik17
+  m_IsActive: 1
+--- !u!1 &1000018
+GameObject:
+  m_ObjectHideFlags: 0
+  m_Name: Fazlalik18
+  m_IsActive: 1
+--- !u!1 &1000019
+GameObject:
+  m_ObjectHideFlags: 0
+  m_Name: Fazlalik19
+  m_IsActive: 1
+--- !u!1 &1000020
+GameObject:
+  m_ObjectHideFlags: 0
+  m_Name: Fazlalik20
+  m_IsActive: 1
+--- !u!1 &1000021
+GameObject:
+  m_ObjectHideFlags: 0
+  m_Name: Fazlalik21
+  m_IsActive: 1
+--- !u!1 &1000022
+GameObject:
+  m_ObjectHideFlags: 0
+  m_Name: Fazlalik22
+  m_IsActive: 1
+--- !u!1 &1000023
+GameObject:
+  m_ObjectHideFlags: 0
+  m_Name: Fazlalik23
+  m_IsActive: 1
+--- !u!1 &1000024
+GameObject:
+  m_ObjectHideFlags: 0
+  m_Name: Fazlalik24
+  m_IsActive: 1
+--- !u!1 &1000025
+GameObject:
+  m_ObjectHideFlags: 0
+  m_Name: Fazlalik25
+  m_IsActive: 1
+--- !u!1 &1000026
+GameObject:
+  m_ObjectHideFlags: 0
+  m_Name: Fazlalik26
+  m_IsActive: 1
+--- !u!1 &1000027
+GameObject:
+  m_ObjectHideFlags: 0
+  m_Name: Fazlalik27
+  m_IsActive: 1
+--- !u!1 &1000028
+GameObject:
+  m_ObjectHideFlags: 0
+  m_Name: Fazlalik28
+  m_IsActive: 1
+--- !u!1 &1000029
+GameObject:
+  m_ObjectHideFlags: 0
+  m_Name: Fazlalik29
+  m_IsActive: 1
+--- !u!1 &1000030
+GameObject:
+  m_ObjectHideFlags: 0
+  m_Name: Fazlalik30
+  m_IsActive: 1
+--- !u!1 &1000031
+GameObject:
+  m_ObjectHideFlags: 0
+  m_Name: Fazlalik31
+  m_IsActive: 1
+--- !u!1 &1000032
+GameObject:
+  m_ObjectHideFlags: 0
+  m_Name: Fazlalik32
+  m_IsActive: 1
+--- !u!1 &1000033
+GameObject:
+  m_ObjectHideFlags: 0
+  m_Name: Fazlalik33
+  m_IsActive: 1
+--- !u!1 &1000034
+GameObject:
+  m_ObjectHideFlags: 0
+  m_Name: Fazlalik34
+  m_IsActive: 1
+--- !u!1 &1000035
+GameObject:
+  m_ObjectHideFlags: 0
+  m_Name: Fazlalik35
+  m_IsActive: 1
+--- !u!1 &1000036
+GameObject:
+  m_ObjectHideFlags: 0
+  m_Name: Fazlalik36
+  m_IsActive: 1
+--- !u!1 &1000037
+GameObject:
+  m_ObjectHideFlags: 0
+  m_Name: Fazlalik37
+  m_IsActive: 1
+--- !u!1 &1000038
+GameObject:
+  m_ObjectHideFlags: 0
+  m_Name: Fazlalik38
+  m_IsActive: 1
+
